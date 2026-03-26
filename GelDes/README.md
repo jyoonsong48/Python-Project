@@ -1,4 +1,12 @@
 <img width="500" height="360" alt="mainimg" src="https://github.com/user-attachments/assets/2b2f1372-20ac-4cdd-b1a9-fc7307bcaa0c" />
+<details><summary>$\color{#fffff}{\text{How to use:}}$ </summary>
+<br> $\text{1. Click to start!}$
+<br> $\text{2. Use pipette to load the sample into wells. (If you are on mobile, you should touch the screen to move pipette and touch again to load the samples.)}$
+<br> $\text{3. Press Start button (on bottom right)}$
+<br> $\text{4. Gel electrophoresis is running and you (should be) are doing your things.}$
+<br> $\text{5. After 50 minutes, you can check the result! (and the description)}$
+<br> $\text{Want another pomodoro? simply press Restart button ㅇ(*'▽'*)┛}$
+</details>
 
 
 ## <img width="80" height="118" alt="ELoaded" src="https://github.com/user-attachments/assets/1575bf9c-ce59-48e4-b35b-31cf98175e6d" /> What is Gel Electrophoresis?
